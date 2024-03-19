@@ -10,10 +10,11 @@ All mini projects for CECS550 Course: Pattern recognition would be uploaded to t
 
 The following is the gist of all the assignments from the Pattern recognition course studied:
 
-Assignments/HW1 : Image processing, manipulation was understood using PIL(Python Imaging Library).
 
-Assignments/HW2 : Deep Neural network built on Las Vegas Metroploitan police department dataset to study the different crime patterns. 
+**Assignments/HW1 :** Image processing, manipulation was understood using PIL(Python Imaging Library).
 
-Assignments/HW3 : An autoencoder was trained on images of human faces using Pytorch and the original image and the reconstructed image was compared.
+**Assignments/HW2 :** Deep Neural network built on Las Vegas Metroploitan police department dataset to study the different crime patterns. 
 
-Assignments/HW4 : A variational autoencoder for a human face dataset was built using Pytorch. The difference between an autoencoder and a variational autoencoder was studied.
+**Assignments/HW3 :** An autoencoder was trained on images of human faces using Pytorch and the original image and the reconstructed image was compared.
+
+**Assignments/HW4 :** A variational autoencoder for a human face dataset was built using Pytorch. The difference between an autoencoder and a variational autoencoder was studied.
